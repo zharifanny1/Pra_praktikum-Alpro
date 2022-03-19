@@ -1,6 +1,6 @@
 # Pra_praktikum-Alpro
 Pengumpulan Tugas Pra Praktikum
-Membuat program kalkulator sederhana, dan push ke Github
+Membuat program kalkulator sederhana
 
 # Nama Kelompok
 - 2100018058 M. Irfan Rafi Aqdillah
